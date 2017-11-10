@@ -4,7 +4,7 @@
 <hr/>
 
 ## 0. Download
-<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">최신 버전</a>
+<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">최신 버전 다운</a>
 
 ## Ⅰ. Main Features
 ### 1. 자습 빼기
@@ -31,6 +31,9 @@
    - 자신이 현재까지 받은 벌점/상점 목록을 받은 양과 함께 나타내줍니다.
    - 받은 총량을 벌점과 상점을 나눠서 표시하여 총 벌점이 30점에 가까운데 받은 상점 30점인 친구들에게 위기의식을 심어줍니다.
    - Screenshot
+   
+<details>
+   <summary>[스크린샷 보기/숨기기]</summary>
 <table border=0>
    <thead>
       <td>Classic</td>
@@ -41,12 +44,16 @@
       <td><img src="./Screenshots/Dark2.png"></td>
    </tr>
 </table>
+   </details>
 
 ### 3. 공지사항 보기
    - 공지사항을 작성자, 날짜, 제목을 표시해줍니다.
    - 공지사항의 제목을 클릭하면 공지사항의 내용과 댓글이 보입니다.
    - 공지의 세부사항이 보이는 곳에서 아마도 댓글을 달 수 있을 것입니다. 댓글 보내는 게 있다고 아무렇게나 쓰고 올렸다간 그대로 올라갈 수도 있고 씹힐 수도 있고 저도 모르겠습니다.
    - Screenshot
+   
+<details>
+   <summary>[스크린샷 보기/숨기기]</summary>
 <table border=0>
    <thead>
       <td>Classic</td>
@@ -57,11 +64,15 @@
       <td><img src="./Screenshots/Dark3.png"></td>
    </tr>
 </table>
+   </details>
 
 ### 4. 급식 보기
    - 이 어플리케이션의 제작자가 매달 말 다음 달의 급식을 다운받아서 일일이 적어놓는 사이트와 연결되어있습니다.
    - 급식은 **매달 1일 00:00 ~ 00:30에 1분 간격으로 업로드**됩니다. 이 시간에는 링크가 오작동될 수 있습니다.
    - Screenshot
+   
+<details>
+   <summary>[스크린샷 보기/숨기기]</summary>
 <table border=0>
    <thead>
       <td>Classic</td>
@@ -72,6 +83,7 @@
       <td><img src="./Screenshots/Dark4.png"></td>
    </tr>
 </table>
+   </details>
    
 <hr/>
 
