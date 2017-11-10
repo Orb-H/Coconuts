@@ -3,13 +3,16 @@
 
 <hr/>
 
+## 0. Download
+<a href="Coconuts MOBILE v1.0.apk" download="download">최신 버전</a>
+
 ## Ⅰ. Main Features
 ### 1. 자습 빼기
    - **세미나실 6개를 제외한** 나머지 위치를 자유롭게 뺄 수 있습니다.
    - 물론 **4시 반까지**이지만요.
    - 세미나실은 다른 데보다 빼는 게 어렵습니다. 그래서 나중에 추가하거나 안 추가하거나 할텐데 곧 졸업이라 후자일 가능성이 높습니다.
    - Screenshot
-<table border=0>
+<table>
    <thead>
       <td>Classic</td>
       <td>Dark</td>
