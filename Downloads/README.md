@@ -4,7 +4,7 @@
 <hr/>
 
 ## 0. Download
-<a href="Coconuts MOBILE v1.0.apk" download="download">최신 버전</a>
+<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">최신 버전</a>
 
 ## Ⅰ. Main Features
 ### 1. 자습 빼기
@@ -12,6 +12,9 @@
    - 물론 **4시 반까지**이지만요.
    - 세미나실은 다른 데보다 빼는 게 어렵습니다. 그래서 나중에 추가하거나 안 추가하거나 할텐데 곧 졸업이라 후자일 가능성이 높습니다.
    - Screenshot
+   
+<details>
+   <summary>[스크린샷 보기/숨기기]</summary>
 <table>
    <thead>
       <td>Classic</td>
@@ -22,6 +25,7 @@
       <td><img src="./Screenshots/Dark1.png"></td>
    </tr>
 </table>
+</details>
 
 ### 2. 벌점 체크
    - 자신이 현재까지 받은 벌점/상점 목록을 받은 양과 함께 나타내줍니다.
