@@ -4,7 +4,7 @@
 <hr/>
 
 ## Ⅰ. Download
-<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">최신 버전 다운</a>(바로 다운로드 됩니다. 크기는 약 20MB입니다.)
+<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">Coconust MOBILE v1.0 다운</a>(바로 다운로드 됩니다. 크기는 약 20MB입니다.)
 
 ## Ⅱ. Main Features
 ### 1. 자습 빼기
