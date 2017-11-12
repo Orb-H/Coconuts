@@ -4,7 +4,7 @@
 <hr/>
 
 ## Ⅰ. Download
-<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">Coconust MOBILE v1.0 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
+다운로드는 아래의 소개글을 천천히 읽어보신 다음에 하시기 바랍니다.
 
 ## Ⅱ. Main Features
 ### 1. 자습 빼기
@@ -127,3 +127,10 @@
 <hr/>
 <br/>
 곧 졸업이라 업데이트는 몇 번 못합니다. 이 앱을 개발하는 것에 관심이 있거나 앱이 돌아가는 원리가 궁금하신 분들은 orb.cov@gmail.com으로 메일을 보내주시길 바랍니다.
+
+<hr/>
+<br/>
+<hr/>
+
+## Download
+<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">Coconust MOBILE v1.0 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
