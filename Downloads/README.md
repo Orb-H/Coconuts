@@ -18,11 +18,11 @@
 <table>
    <thead>
       <td>Classic</td>
-      <td>Dark</td>
+      <td>Night</td>
    </thead>
    <tr>
       <td><img src="./Screenshots/Classic1.png"></td>
-      <td><img src="./Screenshots/Dark1.png"></td>
+      <td><img src="./Screenshots/Night1.png"></td>
    </tr>
 </table>
 </details>
@@ -37,11 +37,11 @@
 <table border=0>
    <thead>
       <td>Classic</td>
-      <td>Dark</td>
+      <td>Night</td>
    </thead>
    <tr>
       <td><img src="./Screenshots/Classic2.png"></td>
-      <td><img src="./Screenshots/Dark2.png"></td>
+      <td><img src="./Screenshots/Night2.png"></td>
    </tr>
 </table>
    </details>
@@ -57,11 +57,11 @@
 <table border=0>
    <thead>
       <td>Classic</td>
-      <td>Dark</td>
+      <td>Night</td>
    </thead>
    <tr>
       <td><img src="./Screenshots/Classic3.png"></td>
-      <td><img src="./Screenshots/Dark3.png"></td>
+      <td><img src="./Screenshots/Night3.png"></td>
    </tr>
 </table>
    </details>
@@ -76,11 +76,11 @@
 <table border=0>
    <thead>
       <td>Classic</td>
-      <td>Dark</td>
+      <td>Night</td>
    </thead>
    <tr>
       <td><img src="./Screenshots/Classic4.png"></td>
-      <td><img src="./Screenshots/Dark4.png"></td>
+      <td><img src="./Screenshots/Night4.png"></td>
    </tr>
 </table>
    </details>
@@ -92,8 +92,8 @@
    - 어차피 자기 폰에 깔아서 쓸 거라 의미없을 것 같지만 아직도 피처폰을 쓰는 불쌍한 친구들을 도와주라는 뜻에서 다른 학번으로 로그인할 수 있게 만들어놓았습니다.
    - 학번 변경 후 자습 신청 시 기존 학번의 현황이 바뀌는 오류가 있는 듯하니 자기 폰 쓰겠다는 친구들에게는 웬만해서는 자기 노트북 쓰라고 하세요.
 ### 2. 디자인 변경
-   - 제 폰같은 경우는 파란색의 출력이 약해서 기본 테마로는 색 구분이 잘 안되서 조금 다른 색을 사용하는 Dark Theme를 만들었습니다.
-   - 지금은 Classic Theme와 Dark Theme 두 종류밖에 없지만 몇 가지 추가할 예정이며 **'이런 색 배합이면 좋겠다'싶은 것들은 여기에 댓글을 달거나 orb.cov@gmail.com으로 메일을 보내주시기 바랍니다.**
+   - 제 폰같은 경우는 파란색의 출력이 약해서 기본 테마로는 색 구분이 잘 안되서 조금 다른 색을 사용하는 Night Theme를 만들었습니다.
+   - 지금은 Classic Theme와 Night Theme 두 종류밖에 없지만 몇 가지 추가할 예정이며 **'이런 색 배합이면 좋겠다'싶은 것들은 여기에 댓글을 달거나 orb.cov@gmail.com으로 메일을 보내주시기 바랍니다.**(흑백 테마 추가 예정)
 ### 3. 언어 변경
    - 부가 기능 중에서 가장 쓸데없는 기능으로 언어를 영어로 바꿀 수 있습니다. 근데 어차피 발번역이라 별로 쓸모도 없고 자습 위치와 급식은 한글로 표시됩니다.
 
@@ -112,7 +112,7 @@
 ### Support for Themes
 위에서 언급하였듯이 원하는 색 배합이 있는 경우에 메일로 보내주시면 됩니다(개발자를 빡세게 굴려주세요!). 참고를 위하여 현재 존재하는 테마들의 색 목록을 여기에 적어두었습니다.
 
-|색 종류|Classic Theme|Dark Theme|설명|
+|색 종류|Classic Theme|Night Theme|설명|
 |:---:|:---:|:---:|:---:|
 |`color1`        | <img src="http://via.placeholder.com/16/0066ff/0066ff">`#0066ff`</span> | <img src="http://via.placeholder.com/16/0055d4/0055d4">`#0055d4`</span> | 메인 색 1(자습 창에서 '1자' 써있는 칸의 배경색) |
 |`color2`        | <img src="http://via.placeholder.com/16/2b7fff/2b7fff">`#2b7fff`</span> | <img src="http://via.placeholder.com/16/0044aa/0044aa">`#0044aa`</span> | 메인 색 2(자습 창에서 자습 위치 써있는 칸의 배경색) |
