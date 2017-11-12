@@ -3,10 +3,10 @@
 
 <hr/>
 
-## 0. Download
+## Ⅰ. Download
 <a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">최신 버전 다운</a>(바로 다운로드 됩니다. 크기는 약 20MB입니다.)
 
-## Ⅰ. Main Features
+## Ⅱ. Main Features
 ### 1. 자습 빼기
    - **세미나실 6개를 제외한** 나머지 위치를 자유롭게 뺄 수 있습니다.
    - 물론 **4시 반까지**입니다. 그 이후로도 가능했다고 생각하면 그건 큰 오산입니다.
@@ -87,7 +87,7 @@
    
 <hr/>
 
-## Ⅱ. Sub Features
+## Ⅲ. Sub Features
 ### 1. 다른 학번으로 로그인
    - 어차피 자기 폰에 깔아서 쓸 거라 의미없을 것 같지만 아직도 피처폰을 쓰는 불쌍한 친구들을 도와주라는 뜻에서 다른 학번으로 로그인할 수 있게 만들어놓았습니다.
    - 학번 변경 후 자습 신청 시 기존 학번의 현황이 바뀌는 오류가 있는 듯하니 자기 폰 쓰겠다는 친구들에게는 웬만해서는 자기 노트북 쓰라고 하세요.
@@ -99,14 +99,14 @@
 
 <hr/>
 
-## Ⅲ. Updates
+## Ⅳ. Updates
 ### v1.0
    - 첫 업로드입니다.
    - 사실 만든 지는 꽤 됐는데(8월에 알파 버전 테스트) 잔버그가 많아서 이제야 올립니다.
 
 <hr/>
 
-## Ⅳ. Feedback
+## Ⅴ. Feedback
 그 이외의 문의사항이나 피드백, 버그 제보는 orb.cov@gmail.com으로 보내주시면 감사하겠습니다.
 
 ### Support for Themes
