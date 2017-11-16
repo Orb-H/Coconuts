@@ -1,4 +1,4 @@
-# Coconuts MOBILE v1.0
+# Coconuts MOBILE v1.1
 ##### Made by Orb_H / Design by Heartade
 
 <hr/>
@@ -93,7 +93,7 @@
    - 학번 변경 후 자습 신청 시 기존 학번의 현황이 바뀌는 오류가 있는 듯하니 자기 폰 쓰겠다는 친구들에게는 웬만해서는 자기 노트북 쓰라고 하세요.
 ### 2. 디자인 변경
    - 제 폰같은 경우는 파란색의 출력이 약해서 기본 테마로는 색 구분이 잘 안되서 조금 다른 색을 사용하는 Night Theme를 만들었습니다.
-   - 지금은 Classic Theme와 Night Theme 두 종류밖에 없지만 몇 가지 추가할 예정이며 **'이런 색 배합이면 좋겠다'싶은 것들은 여기에 댓글을 달거나 orb.cov@gmail.com으로 메일을 보내주시기 바랍니다.**(흑백 테마 추가 예정)
+   - **'이런 색 배합이면 좋겠다'싶은 것들은 여기에 댓글을 달거나 orb.cov@gmail.com으로 메일을 보내주시기 바랍니다.**
 ### 3. 언어 변경
    - 부가 기능 중에서 가장 쓸데없는 기능으로 언어를 영어로 바꿀 수 있습니다. 근데 어차피 발번역이라 별로 쓸모도 없고 자습 위치와 급식은 한글로 표시됩니다.
 
@@ -104,6 +104,7 @@
 |버전|<div align="center">내용</div>|
 |:---:|:----|
 |**v1.0**<br>(11/10)|<ul type="bullet"><li>첫 업로드입니다.</li><li>사실 만든 지는 꽤 됐는데(8월에 알파 버전 테스트) 잔버그가 많아서 이제야 올립니다.</li></ul>|
+|**v1.1**<br>(11/16)|<ul type="bullet"><li>자습 신청 창에서 1자의 리스트에서 화살표의 위치가 어딘가 이상하다는 것을 느끼셨을겁니다. 그 위치를 조정하였습니다.</li><li>디자인 설정에서 색이 하나 잘못 칠해진 것을 고쳤습니다.</li><li>두 종류의 테마가 생겼습니다.(Light Gray, Dark Gray)</li><li>다른 학번 로그인을 두 번 이상 클릭시 그 전의 정보가 남아있는 버그를 수정했습니다.</li><li>이제 어플리케이션이 최신 버전이 존재하는지를 체크합니다.</li><li>테마를 결정하는 새로운 변수인 saturation이 생겼습니다. 자세한 것은 아래의 Support for Themes를 참고해주세요.</li></ul>|
 
 <hr/>
 
@@ -124,6 +125,7 @@
 |`color_back`    | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> | 기본 배경색 |
 |`color_backtext`| <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | 기본 글씨색 |
 |`brightness`    |1|0.5| 벌점을 나타내는 원형 그래프의 색의 밝은 정도를 나타내는 값 |
+|`saturation`    |1|1| 위의 그래프에서 색의 채도를 나타내는 값 |
 
 <hr/>
 <br/>
@@ -134,4 +136,4 @@
 <hr/>
 
 ## Download
-<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.0.apk">Coconust MOBILE v1.0 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
+<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.1.apk">Coconust MOBILE v1.1 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
