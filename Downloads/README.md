@@ -114,18 +114,31 @@
 ### Support for Themes
 위에서 언급하였듯이 원하는 색 배합이 있는 경우에 메일로 보내주시면 됩니다(개발자를 빡세게 굴려주세요!). 참고를 위하여 현재 존재하는 테마들의 색 목록을 여기에 적어두었습니다.
 
-|색 종류|Classic Theme|Night Theme|설명|
-|:---:|:---:|:---:|:---:|
-|`color1`        | <img src="http://via.placeholder.com/16/0066ff/0066ff">`#0066ff`</span> | <img src="http://via.placeholder.com/16/0055d4/0055d4">`#0055d4`</span> | 메인 색 1(자습 창에서 '1자' 써있는 칸의 배경색) |
-|`color2`        | <img src="http://via.placeholder.com/16/2b7fff/2b7fff">`#2b7fff`</span> | <img src="http://via.placeholder.com/16/0044aa/0044aa">`#0044aa`</span> | 메인 색 2(자습 창에서 자습 위치 써있는 칸의 배경색) |
-|`color3`        | <img src="http://via.placeholder.com/16/5599ff/5599ff">`#5599ff`</span> | <img src="http://via.placeholder.com/16/003380/003380">`#003380`</span> | 메인 색 3(자습 창에서 종이비행기 그려져있는 칸의 배경색) |
-|`color_text1`   | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | color1의 배경을 가진 칸의 글씨색 |
-|`color_text2`   | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | color2의 배경을 가진 칸의 글씨색 |
-|`color_text3`   | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | color3의 배경을 가진 칸의 글씨색 |
-|`color_back`    | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> | 기본 배경색 |
-|`color_backtext`| <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | 기본 글씨색 |
-|`brightness`    |1|0.5| 벌점을 나타내는 원형 그래프의 색의 밝은 정도를 나타내는 값 |
-|`saturation`    |1|1| 위의 그래프에서 색의 채도를 나타내는 값 |
+|색 종류|설명|
+|:---:|:---:|
+|`color1`        | 메인 색 1(자습 창에서 '1자' 써있는 칸의 배경색) |
+|`color2`        | 메인 색 2(자습 창에서 자습 위치 써있는 칸의 배경색) |
+|`color3`        | 메인 색 3(자습 창에서 종이비행기 그려져있는 칸의 배경색) |
+|`color_text1`   | color1의 배경을 가진 칸의 글씨색 |
+|`color_text2`   | color2의 배경을 가진 칸의 글씨색 |
+|`color_text3`   | color3의 배경을 가진 칸의 글씨색 |
+|`color_back`    | 기본 배경색 |
+|`color_backtext`| 기본 글씨색 |
+|`brightness`    | 벌점을 나타내는 원형 그래프의 색의 밝은 정도를 나타내는 값 |
+|`saturation`    | 위의 그래프에서 색의 채도를 나타내는 값 |
+
+|색|Classic Theme|Night Theme|Light Gray Theme|Dark Gray Theme|
+|:-:|:---:|:---:|:---:|:---:|
+|`color1`        | <img src="http://via.placeholder.com/16/0066ff/0066ff">`#0066ff`</span> | <img src="http://via.placeholder.com/16/0055d4/0055d4">`#0055d4`</span> | <img src="http://via.placeholder.com/16/aaaaaa/aaaaaa">`#aaaaaa`</span> | <img src="http://via.placeholder.com/16/404040/404040">`#404040`</span> |
+|`color2`        | <img src="http://via.placeholder.com/16/2b7fff/2b7fff">`#2b7fff`</span> | <img src="http://via.placeholder.com/16/0044aa/0044aa">`#0044aa`</span> | <img src="http://via.placeholder.com/16/959595/959595">`#959595`</span> | <img src="http://via.placeholder.com/16/555555/555555">`#555555`</span> |
+|`color3`        | <img src="http://via.placeholder.com/16/5599ff/5599ff">`#5599ff`</span> | <img src="http://via.placeholder.com/16/003380/003380">`#003380`</span> | <img src="http://via.placeholder.com/16/6a6a6a/6a6a6a">`#6a6a6a`</span> | <img src="http://via.placeholder.com/16/808080/808080">`#808080`</span> |
+|`color_text1`   | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> |
+|`color_text2`   | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> |
+|`color_text3`   | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> |
+|`color_back`    | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> |
+|`color_backtext`| <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> | <img src="http://via.placeholder.com/16/000000/000000">`#000000`</span> | <img src="http://via.placeholder.com/16/ffffff/ffffff">`#ffffff`</span> |
+|`brightness`    |1|0.5|1|0.5|
+|`saturation`    |1|1|0|0|
 
 <hr/>
 <br/>
