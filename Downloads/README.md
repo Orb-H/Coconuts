@@ -149,4 +149,4 @@
 <hr/>
 
 ## Download
-<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.1.apk">Coconust MOBILE v1.1 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
+<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.1.apk">Coconuts MOBILE v1.1 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
