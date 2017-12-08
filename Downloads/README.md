@@ -11,7 +11,7 @@
    - **세미나실 6개를 제외한** 나머지 위치를 자유롭게 뺄 수 있습니다.
    - 물론 **8시부터 4시 30분까지**입니다. 그 이후로도 가능했다고 생각하면 그건 큰 오산입니다.
    - 세미나실은 다른 데보다 빼는 게 어렵습니다. 그래서 나중에 추가하거나 안 추가하거나 할텐데 곧 졸업이라 후자일 가능성이 높습니다.
-   - (v1.3)**자습 예약 기능**이 생겼습니다. 아침 8시에 자리 경쟁을 하는 것보다는 전날 미리 가고 싶은 곳을 정해놓고 8시에 자동으로 빠지게끔 하는게 낫죠.
+   - (v1.3)**자습 예약 기능**이 생겼습니다. 아침 8시에 자리 경쟁을 하는 것보다는 전날 미리 가고 싶은 곳을 정해놓고 8시에 자동으로 빠지게끔 하는게 낫겠죠.
    - Screenshot
    
 <details>
@@ -152,4 +152,4 @@
 <hr/>
 
 ## Download
-<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.2.apk">Coconuts MOBILE v1.2 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
+<a href="http://raw.githubusercontent.com/Orb-H/Coconuts/master/Downloads/Coconuts%20MOBILE%20v1.3.apk">Coconuts MOBILE v1.3 다운</a>(바로 다운로드 됩니다. 크기는 19.7MB입니다.)
